@@ -1,0 +1,2 @@
+# scripteddddd
+Java script practice
